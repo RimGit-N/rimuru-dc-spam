@@ -6,6 +6,6 @@
 <p align=" ">
 Installing in folder using command:
 <p align=" ">
-    python osu.py
+    npm install discord.js
 </p>
 </p>
