@@ -59,3 +59,18 @@ Installing in folder using command:
 
 </p>
 </p>
+
+## NOTES:
+- Enviroment Table File (.env) need to create by yourself, this can be created using note command like nano in this case file will be saved name as ".env".
+
+    nano .env
+
+then add the text like this:
+
+    AUTHORIZATION="YOUR_AUTH_TOKEN"
+
+"YOUR_AUTH_TOKEN" need to replaced by your token discord.
+# IMPORTANT
+### DON'T DELETE THE QUOTATION!!!
+
+# Thats all for this, see ya guys hope u enjoy using this script 👋.
