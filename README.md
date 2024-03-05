@@ -1,3 +1,7 @@
 # rimuru-dc-spam
 
-- walawe sir reja
+requirements:
+
+1. discord.js
+Installing in folder using command:
+npm install discord.js
