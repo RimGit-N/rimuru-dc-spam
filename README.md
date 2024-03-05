@@ -9,12 +9,15 @@ Install Command:
     pkg install nodejs
 
 </p></p>
-2. git install:
+
+### <p align="left">2. git install:</p>
+<p align=" ">
+Install Command:
 <p align=" "><strong>
 
-   pkg install git
+    pkg install git
 
-</p></strong>
+</p></strong></p>
 3. update and upgrade pkg:
 <p align=" "><strong>
 
