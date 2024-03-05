@@ -2,7 +2,9 @@
 
 # requirement installation termux:
 ### - pkg install nodejs
+
 ### - pkg install git
+
 ### - apt install && apt update
 
 
