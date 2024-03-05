@@ -9,3 +9,11 @@ Installing in folder using command:
     npm install discord.js
 </p>
 </p>
+
+### <p align="left">2. axios</p>
+<p align=" ">
+Installing in folder using command:
+<p align=" ">
+    npm install axios
+</p>
+</p>
