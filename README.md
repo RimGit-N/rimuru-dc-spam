@@ -12,7 +12,9 @@
 <p align=" ">
 Installing in folder using command:
 <p align=" ">
+
     npm install discord.js
+
 </p>
 </p>
 
@@ -20,7 +22,9 @@ Installing in folder using command:
 <p align=" ">
 Installing in folder using command:
 <p align=" ">
+
     npm install axios
+
 </p>
 </p>
 
@@ -28,6 +32,8 @@ Installing in folder using command:
 <p align=" ">
 Installing in folder using command:
 <p align=" ">
+
     npm install dotenv
+
 </p>
 </p>
