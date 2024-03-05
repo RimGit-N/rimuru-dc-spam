@@ -27,6 +27,7 @@ Install Command:
     apt update && apt upgrade
 
 </p></strong></p>
+
 # requirements module:
 
 ### <p align="left">1. discord.js</p>
