@@ -3,15 +3,15 @@
 # requirement installation termux:
 ## node install:
 
-pkg install nodejs
+   pkg install nodejs
 
 ## git install:
 
-pkg install git
+   pkg install git
 
 ## update and upgrade pkg:
 
-apt update && apt upgrade
+   apt update && apt upgrade
 
 
 # requirements module:
