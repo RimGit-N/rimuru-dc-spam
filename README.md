@@ -1,6 +1,6 @@
 # rimuru-dc-spam
 
-## requirements:
+## requirements module:
 
 ### <p align="left">1. discord.js</p>
 <p align=" ">
