@@ -6,9 +6,11 @@
    pkg install nodejs
 
 ## git install:
+<p align=" ">
 
    pkg install git
 
+</p>
 ## update and upgrade pkg:
 
    apt update && apt upgrade
