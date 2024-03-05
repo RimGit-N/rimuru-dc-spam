@@ -17,3 +17,11 @@ Installing in folder using command:
     npm install axios
 </p>
 </p>
+
+### <p align="left">3. dotenv</p>
+<p align=" ">
+Installing in folder using command:
+<p align=" ">
+    npm install dotenv
+</p>
+</p>
