@@ -1,12 +1,17 @@
 # rimuru-dc-spam
 
 # requirement installation termux:
+## node install:
 
 pkg install nodejs
 
+## git install:
+
 pkg install git
 
-apt install && apt update
+## update and upgrade pkg:
+
+apt update && apt upgrade
 
 
 # requirements module:
