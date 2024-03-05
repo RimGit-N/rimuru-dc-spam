@@ -70,7 +70,6 @@ then add the text like this:
     AUTHORIZATION="YOUR_AUTH_TOKEN"
 
 |
-|
 
     "YOUR_AUTH_TOKEN"
 
