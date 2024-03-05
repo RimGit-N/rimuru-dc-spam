@@ -2,17 +2,19 @@
 
 # requirement installation termux:
 <p align="left">
-## node install:
+1. node install:
+<p align=" ">
 
    pkg install nodejs
 
-## git install:
-<p align=" ">
+</p></strong>
+2. git install:
+<p align=" "><strong>
 
    pkg install git
 
-</p>
-## update and upgrade pkg:
+</p></strong>
+3. update and upgrade pkg:
 <p align=" "><strong>
 
    apt update && apt upgrade
