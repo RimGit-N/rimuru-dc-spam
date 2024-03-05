@@ -1,5 +1,11 @@
 # rimuru-dc-spam
 
+# requirement installation termux:
+### - pkg install nodejs
+### - pkg install git
+### - apt install && apt update
+
+
 ## requirements module:
 
 ### <p align="left">1. discord.js</p>
