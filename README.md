@@ -69,7 +69,8 @@ then add the text like this:
 
     AUTHORIZATION="YOUR_AUTH_TOKEN"
 
-"YOUR_AUTH_TOKEN" need to replaced by your token discord.
+    "YOUR_AUTH_TOKEN"
+need to replaced by your token discord.
 # IMPORTANT
 ### DON'T DELETE THE QUOTATION!!!
 
