@@ -1,10 +1,12 @@
 # rimuru-dc-spam
 
 # requirement installation termux:
-### <p align=" ">1. node install:
+### <p align="left">1. node install:</p>
+<p align=" ">
+Install Command:
 <p align=" ">
 
-   pkg install nodejs
+    pkg install nodejs
 
 </p></p>
 2. git install:
