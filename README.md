@@ -4,11 +4,11 @@
 ### <p align="left">1. node install:</p>
 <p align=" ">
 Install Command:
-<p align=" ">
+<p align=" "><strong>
 
     pkg install nodejs
 
-</p></p>
+</p></strong></p>
 
 ### <p align="left">2. git install:</p>
 <p align=" ">
@@ -18,13 +18,15 @@ Install Command:
     pkg install git
 
 </p></strong></p>
-3. update and upgrade pkg:
+
+### <p align="left">3. update and upgrade pkg:</p>
+<p align=" ">
+Install Command:
 <p align=" "><strong>
 
-   apt update && apt upgrade
+    apt update && apt upgrade
 
-</p></strong>
-</p>
+</p></strong></p>
 # requirements module:
 
 ### <p align="left">1. discord.js</p>
