@@ -6,7 +6,7 @@
 ### - apt install && apt update
 
 
-## requirements module:
+# requirements module:
 
 ### <p align="left">1. discord.js</p>
 <p align=" ">
